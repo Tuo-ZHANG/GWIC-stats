@@ -16,4 +16,4 @@ test
 train
 WIC
 dev
-*csv
+instances_with_token_index.csv
